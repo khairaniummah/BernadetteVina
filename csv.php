@@ -50,7 +50,7 @@ fwrite($handle,$strxml);
 fclose($handle);
 
 
-echo file_get_contents('http://localhost/webservice/output2.xml');
+echo file_get_contents('output2.xml');
 
 //http://stackoverflow.com/questions/4852796/php-script-to-convert-csv-files-to-xml
 ?>
