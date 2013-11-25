@@ -1,0 +1,24 @@
+<!-- M. BINTANG ADINANDRA 18211005-->
+<!-- KAMILA A. WIDYANTO 1821005 -->
+<mydata>
+<mymenu>
+	<menu>Nasi Goreng Biasa</menu>
+	<harga>10000</harga>
+</mymenu>
+<mymenu>
+	<menu>Nasi Goreng Ayam</menu>
+	<harga>11000</harga>
+</mymenu>
+<mymenu>
+	<menu>Nasi Goreng Spesial</menu>
+	<harga>13000</harga>
+</mymenu>
+<mymenu>
+	<menu>Mie Goreng</menu>
+	<harga>9000</harga>
+</mymenu>
+<mymenu>
+	<menu>Mie Kuah</menu>
+	<harga>9000</harga>
+</mymenu>
+</mydata>

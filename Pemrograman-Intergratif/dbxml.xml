@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musik>
+        <genre>
+                <nama>Jazz</nama>
+                <peminat>90</peminat>
+        </genre>
+        <genre>
+                <nama>Rock</nama>
+                <peminat>100</peminat>
+        </genre>
+        <genre>
+                <nama>Classic</nama>
+                <peminat>80</peminat>
+        </genre>
+        <genre>
+                <nama>Deathmetal</nama>
+                <peminat>20</peminat>
+        </genre>
+        <genre>
+                <nama>Trashrock</nama>
+                <peminat>40</peminat>
+        </genre>
+        <genre>
+                <nama>Indiepop</nama>
+                <peminat>90</peminat>
+        </genre>
+        <genre>
+                <nama>Metal</nama>
+                <peminat>80</peminat>
+        </genre>
+        <genre>
+                <nama>bebop</nama>
+                <peminat>100</peminat>
+        </genre>
+</musik>

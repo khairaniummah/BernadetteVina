@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<menu>
+    <tabel_1>
+        <nama>Karedok</nama>
+        <harga>Rp 10000</harga>
+        <jenis>sunda</jenis>
+    </tabel_1>
+    <tabel_1>
+        <nama>Lotek</nama>
+        <harga>Rp 15000</harga>
+        <jenis>sunda</jenis>
+    </tabel_1>
+</menu>

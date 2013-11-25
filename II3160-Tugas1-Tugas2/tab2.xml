@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Mahasiswa>
+   <mhs id="01">
+      <No>1</No>
+      <Nama>Gustav Reiner</Nama>
+      <Jurusan>Sistem dan Teknologi Informasi</Jurusan>
+      <Angkatan>2011</Angkatan>
+   </mhs>
+   <mhs id="02">
+      <No>2</No>
+      <Nama>Agnesse Jankovic</Nama>
+      <Jurusan>Teknik Informatika</Jurusan>
+      <Angkatan>2011</Angkatan>
+   </mhs>
+   <mhs id="03">
+      <No>3</No>
+      <Nama>Vlad Krakow</Nama>
+      <Jurusan>Sistem dan Teknologi Informasi</Jurusan>
+      <Angkatan>2011</Angkatan>
+   </mhs>
+   <mhs id="04">
+      <No>4</No>
+      <Nama>Kevin Pavlyuchenko</Nama>
+      <Jurusan>Sistem dan Teknologi Informasi</Jurusan>
+      <Angkatan>2010</Angkatan>
+   </mhs>
+   <mhs id="05">
+      <No>5</No>
+      <Nama>Niko Bellic</Nama>
+      <Jurusan>Teknik Informatika</Jurusan>
+      <Angkatan>2010</Angkatan>
+   </mhs>
+</Mahasiswa>

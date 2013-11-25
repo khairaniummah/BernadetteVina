@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<data>
+    <country name="Liechtenstein">
+    	<nama>Liechtenstein</nama>
+        <rank>1</rank>
+        <year>2008</year>
+        <gdppc>141100</gdppc>
+    </country>
+    <country name="Singapore">
+    	<nama>Singapore</nama>
+        <rank>4</rank>
+        <year>2011</year>
+        <gdppc>59900</gdppc>
+    </country>
+    <country name="Panama">
+    	<nama>Panama</nama>
+        <rank>68</rank>
+        <year>2011</year>
+        <gdppc>13600</gdppc>
+    </country>
+</data>

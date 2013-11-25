@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<TabelMahasiswa>
+  <mahasiswa>
+    <nim>18213001</nim>
+    <nama>Gilang Ramadhan</nama>
+    <asal>Bandung</asal>
+    <ipk>3.8</ipk>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>18213002</nim>
+    <nama>Antragama Ewa Abbas</nama>
+    <asal>Banjar Baru</asal>
+    <ipk>4</ipk>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>18213003</nim>
+    <nama>Anjar</nama>
+    <asal>Bandung</asal>
+    <ipk>3</ipk>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>18213004</nim>
+    <nama>Faris Taufiq Zaqiy</nama>
+    <asal>Cimahi</asal>
+    <ipk>3.75</ipk>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>18213005</nim>
+    <nama>Desi Fajarina</nama>
+    <asal>Binjai</asal>
+    <ipk>3.2</ipk>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>18213006</nim>
+    <nama>Muhammad Fatoni</nama>
+    <asal>Pemalang</asal>
+    <ipk>4</ipk>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>18213007</nim>
+    <nama>Manohara Odelia</nama>
+    <asal>Jember</asal>
+    <ipk>2.5</ipk>
+  </mahasiswa>
+</TabelMahasiswa>

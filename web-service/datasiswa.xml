@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="index.css"?>
+<datasiswa>
+	<siswa>
+		<NIM>13511019</NIM>
+		<NAMA>Ignatius Evan Daryanto</NAMA>
+		<JURUSAN>Teknik Informatika</JURUSAN>
+	</siswa>
+	<siswa>
+		<NIM>18011058</NIM>
+		<NAMA>Katherine Adriana</NAMA>
+		<JURUSAN>Teknik Tenaga Listrik</JURUSAN>
+	</siswa>
+	<siswa>
+		<NIM>18111012</NIM>
+		<NAMA>Yoan Elfina</NAMA>
+		<JURUSAN>Teknik Telekomunikasi</JURUSAN>
+	</siswa>
+</datasiswa>
+

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>ikp</Author>
+  <LastAuthor>ikp</LastAuthor>
+  <Created>2013-11-08T02:32:53Z</Created>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7755</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="data2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="44" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell ss:Formula="=-- phpMyAdmin SQL Dump"><Data ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- version 3.5.2.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- http://www.phpmyadmin.net</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- Host: 127.0.0.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- Generation Time: Nov 05, 2013 at 05:25 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- Server version: 5.5.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- PHP Version: 5.4.7</Data></Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell><Data ss:Type="String">SET SQL_MODE=&quot;NO_AUTO_VALUE_ON_ZERO&quot;;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SET time_zone = &quot;+00:00&quot;;</Data></Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell><Data ss:Type="String">/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">/*!40101 SET NAMES utf8 */;</Data></Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- Database: `progin1`</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row ss:Index="23">
+    <Cell><Data ss:Type="String">&#45;- &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-</Data></Cell>
+   </Row>
+   <Row ss:Index="25">
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- Table structure for table 'data2`</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row ss:Index="29">
+    <Cell><Data ss:Type="String">CREATE TABLE IF NOT EXISTS `data2` (</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">  `Nama` varchar(10) NOT NULL,</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">  `NIM` int(8) NOT NULL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;</Data></Cell>
+   </Row>
+   <Row ss:Index="34">
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;- Dumping data for table `data2`</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row ss:Index="38">
+    <Cell><Data ss:Type="String">INSERT INTO `data2` (`Nama`, `NIM`) VALUES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">('Indra', 18211025),</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">('Adhela', 18211028);</Data></Cell>
+   </Row>
+   <Row ss:Index="42">
+    <Cell><Data ss:Type="String">/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

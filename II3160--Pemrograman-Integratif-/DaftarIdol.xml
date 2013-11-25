@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DaftarIdol>
+
+<Idol>
+<No> 7 </No>
+<Nama> Mickey </Nama>
+<Umur> 16 </Umur>
+<Gender> Perempuan </Gender>
+<Agency> 765 Productions </Agency>
+</Idol>
+
+<Idol>
+<No> 1 </No>
+<Nama> Christina </Nama>
+<Umur> 15 </Umur>
+<Gender> Perempuan </Gender>
+<Agency> 765 Productions </Agency>
+</Idol>
+
+<Idol>
+<No> 2 </No>
+<Nama> Hannah </Nama>
+<Umur> 15 </Umur>
+<Gender> Perempuan </Gender>
+<Agency> 765 Productions </Agency>
+</Idol>
+
+<Idol>
+<No> 3 </No>
+<Nama> Thomas </Nama>
+<Umur> 16 </Umur>
+<Gender> Laki-Laki </Gender>
+<Agency> Blackthorne Productions </Agency>
+</Idol>
+
+<Idol>
+<No> 4 </No>
+<Nama> Hughes </Nama>
+<Umur> 18 </Umur>
+<Gender> Laki-Laki </Gender>
+<Agency> Blackthorne Productions </Agency>
+</Idol>
+
+<Idol>
+<No> 5 </No>
+<Nama> Ghea </Nama>
+<Umur> 24 </Umur>
+<Gender> Perempuan </Gender>
+<Agency> Republik Cinta </Agency>
+</Idol>
+
+<Idol>
+<No> 6 </No>
+<Nama> Emmanuel </Nama>
+<Umur> 21 </Umur>
+<Gender> Laki-laki </Gender>
+<Agency> Hola Amigo </Agency>
+</Idol>
+
+</DaftarIdol>

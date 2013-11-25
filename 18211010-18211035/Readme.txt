@@ -1,0 +1,1 @@
+Untuk menjalankan web service, silahkan buka file tugas2.php

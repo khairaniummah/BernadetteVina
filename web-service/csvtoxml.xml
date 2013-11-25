@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="index.css"?>
+<datasiswa>
+	<siswa>
+		<NIM>18211001</NIM>
+		<NAMA> Aditya Pradita S.</NAMA>
+		<JURUSAN> Sistem dan Teknologi Informasi		</JURUSAN>
+	</siswa>
+	<siswa>
+		<NIM>18211002</NIM>
+		<NAMA> Azka Ihsan Nurrahman</NAMA>
+		<JURUSAN> Teknik Elektro		</JURUSAN>
+	</siswa>
+	<siswa>
+		<NIM>18211003</NIM>
+		<NAMA> Dinda Tisi Calista</NAMA>
+		<JURUSAN> Teknik Informatika		</JURUSAN>
+	</siswa>
+	<siswa>
+		<NIM>18211004</NIM>
+		<NAMA> Subkhan Sarif</NAMA>
+		<JURUSAN> Teologi		</JURUSAN>
+	</siswa>
+	<siswa>
+		<NIM>18211005</NIM>
+		<NAMA> M. Bintang Adinandra</NAMA>
+		<JURUSAN> Cinematografi		</JURUSAN>
+	</siswa>
+</datasiswa>

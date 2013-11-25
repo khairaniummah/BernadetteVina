@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<libtest><data_pesanan>
+		<nomor>1521</nomor>
+		<id_karyawan>Gunawan</id_karyawan>
+		<id_pelanggan>21</id_pelanggan>
+		</data_pesanan>
+	<data_pesanan>
+		<nomor>1522</nomor>
+		<id_karyawan>Adhela</id_karyawan>
+		<id_pelanggan>19</id_pelanggan>
+		</data_pesanan>
+	<data_pesanan>
+		<nomor>1523</nomor>
+		<id_karyawan>Ikape</id_karyawan>
+		<id_pelanggan>20</id_pelanggan>
+		</data_pesanan>
+	<data_pesanan>
+		<nomor>1524</nomor>
+		<id_karyawan>Nicolas</id_karyawan>
+		<id_pelanggan>19</id_pelanggan>
+		</data_pesanan>
+	</libtest>

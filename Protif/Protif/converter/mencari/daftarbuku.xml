@@ -1,0 +1,13 @@
+<library>
+	<buku>
+		<judul>Matematika</judul>
+		<halaman>110</halaman>
+		<pengarang>Dani</pengarang>
+	</buku>	
+	<buku>
+		<judul>Fisika</judul>
+		<halaman>300</halaman>
+		<pengarang>Randi</pengarang>
+	</buku>
+
+</library>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tickets>
+        <ticket>
+                <id>35</id>
+                <codename>bcd</codename>
+                <value>8.5</value>
+        </ticket>
+        <ticket>
+                <id>40</id>
+                <codename>def</codename>
+                <value>3.6</value>
+        </ticket>
+        <ticket>
+                <id>9</id>
+                <codename>ghi</codename>
+                <value>6.3</value>
+        </ticket>
+        <ticket>
+                <id>76</id>
+                <codename>def</codename>
+                <value>99</value>
+        </ticket>
+</tickets>

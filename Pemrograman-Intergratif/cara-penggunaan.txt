@@ -1,0 +1,6 @@
+Jalankan program parseXML2.py di terminal windows atau linux
+
+#format eksekusi program:
+#parseXML2.py argv[1] argv[2]
+#argv[1] untuk nama file xml
+#argv[2] untuk nama tag/tabel yang dicari

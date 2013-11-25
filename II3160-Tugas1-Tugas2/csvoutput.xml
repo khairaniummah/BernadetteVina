@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<root>
+  <kantor>
+    <No>1</No>
+    <Nama>Antonio Banderas</Nama>
+    <JenisKelamin>Pria</JenisKelamin>
+    <Jabatan>Ketua</Jabatan>
+  </kantor>
+  <kantor>
+    <No>2</No>
+    <Nama>Selena Gomez</Nama>
+    <JenisKelamin>Wanita</JenisKelamin>
+    <Jabatan>Sekretaris</Jabatan>
+  </kantor>
+  <kantor>
+    <No>3</No>
+    <Nama>Guisepe Lopez</Nama>
+    <JenisKelamin>Pria</JenisKelamin>
+    <Jabatan>Bendahara</Jabatan>
+  </kantor>
+  <kantor>
+    <No>4</No>
+    <Nama>Gabriel Iglesias</Nama>
+    <JenisKelamin>Pria</JenisKelamin>
+    <Jabatan>Karyawan I</Jabatan>
+  </kantor>
+  <kantor>
+    <No>5</No>
+    <Nama>Felipe Sanchez</Nama>
+    <JenisKelamin>Pria</JenisKelamin>
+    <Jabatan>Karyawan II</Jabatan>
+  </kantor>
+</root>

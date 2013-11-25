@@ -1,0 +1,6 @@
+Cara Pakai :
+1. localhost/testPHP2/index.php?search(nama makanan)
+
+(nama makanan) diganti naman makanan yang ada di database
+
+Terima Kasih :D

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="/PemrogramanIntegratif/Tugas2/tugas2.xsl"?>
+<table>
+	<mahasiswa NIM="13211001">
+		<nama>Newton</nama>
+		<nilai>100</nilai>
+	</mahasiswa>
+	
+	<mahasiswa NIM="13211002">
+		<nama>Pascal</nama>
+		<nilai>99</nilai>
+	</mahasiswa>
+	
+	<mahasiswa NIM="13211003">
+		<nama>Hertz</nama>
+		<nilai>88</nilai>
+	</mahasiswa>
+	
+	<mahasiswa NIM="13211004">
+		<nama>Einsten</nama>
+		<nilai>77</nilai>
+	</mahasiswa>
+</table>

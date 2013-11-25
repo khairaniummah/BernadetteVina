@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+			<?xml-stylesheet type="text/css" href="index.css"?>
+<datasiswa>
+	<siswa>
+								<NIM>16511079</NIM>
+								<NAMA> Olivia</NAMA>
+								<JURUSAN> STEI		</JURUSAN>
+							</siswa>
+							<siswa>
+								<NIM>16511103</NIM>
+								<NAMA> Nelson Poetra Yoga H.</NAMA>
+								<JURUSAN> STEI		</JURUSAN>
+							</siswa>
+							<siswa>
+								<NIM>16511140</NIM>
+								<NAMA> Bernadette Vina</NAMA>
+								<JURUSAN> STEI		</JURUSAN>
+							</siswa>
+						</datasiswa>

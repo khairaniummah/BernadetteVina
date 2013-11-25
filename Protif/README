@@ -1,0 +1,18 @@
+Tugas Protif WebService
+oleh :
+Ahmad Faiz Nasshor / 18210023
+Ikhwanul Hakim / 18210026
+
+Tools :
+Luracast Restler
+
+Fitur :
+- convert dari SQL ke XML ( dengan menggunakan file pprotif/converter/index.php/sqltoxml.xml) 
+- convert dari CSV ke XML ( dengan menggunakan file protif/converter/mencari/index.php/csv2xml2/view/daftarbuku.csv)
+- melakukan search buku dari file XML yang dimiliki ( dengan menggunakan file protif/converter/mencari/index.php/mencari/caribuku/$variable nb:$variable berisikan judul buku)
+-halo
+
+
+Bug :
+- tidak bisa melakukan search pada file XML yang di convert dari SQL dikarenakan tidak ada file XML nya secara fisik
+- hasil search tidak bisa ditampilkan secara rapi karena HTML tidak bisa bekerja

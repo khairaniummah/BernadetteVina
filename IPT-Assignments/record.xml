@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="styles.xsl" type="text/xsl" ?>
+<Gym>
+
+<Trainee>
+    <Trainee_ID>1521</Trainee_ID>
+    <Trainee_Name>Gunawan</Trainee_Name>
+    <Trainee_Age>21</Trainee_Age>
+</Trainee>
+
+<Trainee>
+    <Trainee_ID>1522</Trainee_ID>
+    <Trainee_Name>Adhela</Trainee_Name>
+    <Trainee_Age>19</Trainee_Age>
+</Trainee>
+
+<Trainee>
+    <Trainee_ID>1523</Trainee_ID>
+    <Trainee_Name>Ikape</Trainee_Name>
+    <Trainee_Age>20</Trainee_Age>
+</Trainee>
+
+<Trainee>
+    <Trainee_ID>1524</Trainee_ID>
+    <Trainee_Name>Nico</Trainee_Name>
+    <Trainee_Age>19</Trainee_Age>
+</Trainee>
+
+
+<!--<Class>
+    <Trainee_ID>1521</Trainee_ID>
+    <Course_ID>A21</Course_ID>
+    <Class_Room>A1</Class_Room>
+</Class>
+
+<Class>
+    <Trainee_ID>1522</Trainee_ID>
+    <Course_ID>A22</Course_ID>
+    <Class_Room>B2</Class_Room>
+</Class>
+
+<Class>
+    <Trainee_ID>1523</Trainee_ID>
+    <Course_ID>B24</Course_ID>
+    <Class_Room>B3</Class_Room>
+</Class>
+
+<Course>
+    <Course_ID>A21</Course_ID>
+    <Course_Title>Yoga</Course_Title>
+    <Course_Hours_Per_Week>2</Course_Hours_Per_Week>
+</Course>
+
+<Course>
+    <Course_ID>A22</Course_ID>
+    <Course_Title>Pilates</Course_Title>
+    <Course_Hours_Per_Week>2</Course_Hours_Per_Week>
+</Course>
+
+<Course>
+    <Course_ID>B24</Course_ID>
+    <Course_Title>Aerobic</Course_Title>
+    <Course_Hours_Per_Week>3</Course_Hours_Per_Week>
+</Course>
+-->
+</Gym>
+
